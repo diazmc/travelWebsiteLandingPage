@@ -95,7 +95,7 @@ h1 {
 }
 
 .social-container {
-    width: 7.25rem;
+    width: 7.6rem;
     list-style: none;
     overflow: hidden;
     padding: 0;
@@ -107,6 +107,10 @@ h1 {
     width: 1.5rem;
     float: left;
     cursor: pointer;
+}
+
+.social-container .social__icon {
+    font-size: 150%;
 }
 
 .social-container .social__icon.social__icon--dr {
